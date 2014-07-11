@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Foodie::VERSION
   spec.authors       = ["April Rivera"]
   spec.email         = ["april.r.rivera@gmail.com"]
-  spec.summary       = %q{Corgis are fun}
-  spec.description   = %q{Pugly face}
+  spec.summary       = %q{pluralizes words and generates recipes}
+  spec.description   = %q{corgiherd's first ruby gem}
   spec.homepage      = ""
   spec.license       = "MIT"
 
